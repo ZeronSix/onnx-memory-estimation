@@ -1,0 +1,7 @@
+numpy==1.26.4
+onnx==1.16.2
+protobuf==5.26.1
+
+# Testing
+onnxruntime==1.19.0
+torch==2.4.0
