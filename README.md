@@ -19,7 +19,7 @@ However, the naive strategy does not support this approach.
     ```bash
     python3 -m venv .venv
     source .venv/bin/activate
-    python3 -m pip install -r requirments.txt
+    python3 -m pip install -r requirements.txt
     ```
 
 1. Download a test ONNX AlexNet model and run `symbolic_shape_infer.py`:
